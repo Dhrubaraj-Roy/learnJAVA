@@ -1,4 +1,4 @@
-package learnJAVA.code;
+
 class first {
     int a = 10; //instance variable
     static int b = 11;  // this is static variable  we can access without creating any object.
